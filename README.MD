@@ -4,7 +4,7 @@ Courses
 
 #### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
 
-#### [Codecademy](https://www.codecademy.com/ttltrk)
+#### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] - [52 Badges] - [4 Skills Compl.]
   * [Learn Git](https://www.codecademy.com/learn/learn-git) - [100%]
   * [Learn HTML](https://www.codecademy.com/learn/learn-html) - [100%]
   * [Learn SQL](https://www.codecademy.com/learn/learn-sql) - [100%]
@@ -15,7 +15,7 @@ Courses
   * [Learn CSS](https://www.codecademy.com/learn/learn-css) - [11%]
   * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) - [5%]
 
-#### [SoloLearn](https://www.sololearn.com/Profile/3771981)
+#### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) - [100%] - [426XP]
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) - [100%] - [291XP]
   * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP) - [100%] - [256XP]
