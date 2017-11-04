@@ -33,15 +33,15 @@ Courses
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview) - [32%]
   * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview) - [3%]
   * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - [4%]
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) - [59%]
+  * [Django Core | A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview) - [3%]
+  * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview) - [22%]
+  * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview) - [0%]
+  * [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) - [0%]
+  * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview) - [4%]
+  * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview) - [74%]
+  * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) - [5%]
+  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [10%]
   * []()
   * []()
   * []()
