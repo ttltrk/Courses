@@ -7,7 +7,7 @@ Courses
 #### [Codecademy](https://www.codecademy.com/ttltrk)
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981)
-  * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python)
+  * [100%] - [426XP] - [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python)
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java)
   * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
   * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
