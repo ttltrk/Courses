@@ -2,9 +2,18 @@
 Courses
 ======
 
-#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk)
+#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
 
 #### [Codecademy](https://www.codecademy.com/ttltrk)
+  * [Learn Git]()
+  * [Learn HTML]()
+  * [Learn SQL]()
+  * [Learn Python]()
+  * [Learn Java]()
+  * [Learn the Command Line]()
+  * [Introduction to JavaScript]()
+  * [Learn CSS]()
+  * [Learn Ruby]()
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981)
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) - [100%] - [426XP]
