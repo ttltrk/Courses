@@ -6,14 +6,14 @@ Courses
 
 #### [Codecademy](https://www.codecademy.com/ttltrk)
   * [Learn Git](https://www.codecademy.com/learn/learn-git) - [100%]
-  * [Learn HTML]() - [100%]
-  * [Learn SQL]() - [100%]
-  * [Learn Python]() - [57%]
-  * [Learn Java]() - [25%]
-  * [Learn the Command Line]() - [25%]
-  * [Introduction to JavaScript]() - [21%]
-  * [Learn CSS]() - [11%]
-  * [Learn Ruby]() - [5%]
+  * [Learn HTML](https://www.codecademy.com/learn/learn-html) - [100%]
+  * [Learn SQL](https://www.codecademy.com/learn/learn-sql) - [100%]
+  * [Learn Python](https://www.codecademy.com/learn/learn-python) - [57%]
+  * [Learn Java](https://www.codecademy.com/learn/learn-java) - [25%]
+  * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - [25%]
+  * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) - [21%]
+  * [Learn CSS](https://www.codecademy.com/learn/learn-css) - [11%]
+  * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) - [5%]
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981)
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) - [100%] - [426XP]
