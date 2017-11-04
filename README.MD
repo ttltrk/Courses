@@ -16,9 +16,9 @@ Courses
   * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp) - [35%] - [119XP]
   * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS) - [33%] - [111XP]
   * [Ruby Tutorial](https://www.sololearn.com/Profile/3771981/Ruby) - [30%] - [89XP]
-
-  * [Swift Fundamentals](https://www.sololearn.com/Profile/3771981/Swift)
-  * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery)
+  * [C++ Tutorial](https://www.sololearn.com/Profile/3771981/CPlusPlus) - [15%] - [60XP]
+  * [Swift Fundamentals](https://www.sololearn.com/Profile/3771981/Swift) - [10%] - [54XP]
+  * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery) - [10%] - [28XP]
 
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
