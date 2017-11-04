@@ -8,15 +8,15 @@ Courses
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981)
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) - [100%] - [426XP]
-  * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java)
-  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
-  * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
-  * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML)
-  * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL)
-  * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp)
-  * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS)
-  * [Ruby Tutorial](https://www.sololearn.com/Profile/3771981/Ruby)
-  * [C++ Tutorial](https://www.sololearn.com/Profile/3771981/CPlusPlus)
+  * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) - [100%] - [291XP]
+  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP) - [100%] - [256XP]
+  * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP) - [100%] - [248XP]
+  * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML) - [100%] - [234XP]
+  * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL) - [100%] - [179XP]
+  * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp) - [35%] - [119XP]
+  * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS) - [33%] - [111XP]
+  * [Ruby Tutorial](https://www.sololearn.com/Profile/3771981/Ruby) - [30%] - [89XP]
+
   * [Swift Fundamentals](https://www.sololearn.com/Profile/3771981/Swift)
   * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery)
 
