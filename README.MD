@@ -30,6 +30,23 @@ Courses
   * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery) - [10%] - [28XP]
 
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
+  * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview) - [32%]
+  * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview) - [3%]
+  * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - [4%]
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
 
 #### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
 
