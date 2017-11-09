@@ -41,7 +41,7 @@ Courses
   * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview) - [4%]
   * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview) - [74%]
   * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) - [5%]
-  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [10%]
+  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [13%]
   * [Teach Your Kids to Code: Learn Python Programming at Any Age](https://www.udemy.com/teach-your-kids-to-code/learn/v4/) - [29%]
   * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview) - [6%]
   * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview) - [0%]
