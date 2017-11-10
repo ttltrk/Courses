@@ -31,7 +31,7 @@ Courses
 
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview) - [50%]
-  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [13%]
+  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [15%]
   * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview) - [3%]
   * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - [4%]
   * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) - [59%]
