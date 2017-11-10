@@ -47,6 +47,9 @@ Courses
   * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview) - [0%]
   * [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/overview) - [2%]
   * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content) - [0%]
+  
+### [Saylor.org]()
+  * [WEB Development](https://learn.saylor.org/course/view.php?id=75)
 
 #### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
 
