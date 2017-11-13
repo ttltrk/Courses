@@ -31,6 +31,7 @@ Courses
 
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview) - [54%]
+  * [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) - [9%]
   * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [15%]
   * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) - [59%]
   * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview) - [74%]
@@ -40,7 +41,6 @@ Courses
   * [Django Core | A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview) - [3%]
   * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview) - [22%]
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview) - [0%]
-  * [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) - [0%]
   * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview) - [4%]
   * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) - [5%]
   * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview) - [6%]
