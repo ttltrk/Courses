@@ -2,18 +2,56 @@
 Courses
 ======
 
-#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) | [Cert]() | [Step 239]
+#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk)
+       * [Step 239]
+       * [Certification]() 
+       * [Documentation]()
 
 #### [Codecademy](https://www.codecademy.com/ttltrk) | [410 Pts] | [52 Badges] | [4 Skills Compl.]
-  * [Learn Git](https://www.codecademy.com/learn/learn-git) | [Cert]() | [Docu]() | [100%]
-  * [Learn HTML](https://www.codecademy.com/learn/learn-html) | [Cert]() | [Docu]() | [100%]
-  * [Learn SQL](https://www.codecademy.com/learn/learn-sql) | [Cert]() | [Docu]() | [100%]
-  * [Learn Python](https://www.codecademy.com/learn/learn-python) | [Cert]() | [Docu]() | [57%]
-  * [Learn Java](https://www.codecademy.com/learn/learn-java) | [Cert]() | [Docu]() | [25%]
-  * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) | [Cert]() | [Docu]() | [25%]
-  * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) | [Cert]() | [Docu]() | [21%]
-  * [Learn CSS](https://www.codecademy.com/learn/learn-css) | [Cert]() | [Docu]() | [11%]
-  * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) | [Cert]() | [Docu]() | [5%]
+  * [Learn Git](https://www.codecademy.com/learn/learn-git)
+      * [100%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn HTML](https://www.codecademy.com/learn/learn-html)
+      * [100%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+      * [100%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn Python](https://www.codecademy.com/learn/learn-python)
+      * [57%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn Java](https://www.codecademy.com/learn/learn-java)
+      * [25%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+      * [25%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+      * [21%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn CSS](https://www.codecademy.com/learn/learn-css)
+      * [11%]
+      * [Certification]() 
+      * [Documentation]()
+  
+  * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+      * [5%]
+      * [Certification]() 
+      * [Documentation]()
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
 
