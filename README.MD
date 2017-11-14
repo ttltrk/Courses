@@ -2,17 +2,17 @@
 Courses
 ======
 
-<nav id='1000'>
-| <a href='#'>FreeCodeCamp</a> |
-<a href='#'>CodeCademy</a> |
-<a href='#'>SoloLearn</a> |
-<a href='#'>Udemy</a> |
-<a href='#'>Saylor</a> |
-<a href='#'>Dataquest</a> |
-<a href='#'>DataCamp</a> |
+<nav>
+| <a href='#001'>FreeCodeCamp</a> |
+<a href='#002'>CodeCademy</a> |
+<a href='#003'>SoloLearn</a> |
+<a href='#004'>Udemy</a> |
+<a href='#005'>Saylor</a> |
+<a href='#006'>Dataquest</a> |
+<a href='#007'>DataCamp</a> |
 </nav>
 
-### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
+### [<h3 id='001'>FreeCodeCamp</h3>](https://www.freecodecamp.org/ttltrk) - [Step 239]
   * [Certification]() 
   * [Documentation]()
 
