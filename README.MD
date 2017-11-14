@@ -16,23 +16,32 @@ Courses
   * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) | [Cert]() | [Docu]() | [5%]
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
+
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
+      * [100%] | [426XP]
       * [Certification]() 
       * [Documentation]() 
-      * [100%] | [426XP]
       
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) 
-      * [Certification]() 
-      * [Documentation]() 
       * [100%] | [291XP]
-      
-  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
       * [Certification]() 
       * [Documentation]() 
+            
+  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
       * [100%] | [256XP]
-      
-  * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP) | [Cert]() | [Docu]() | [100%] | [248XP]
-  * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML) | [Cert]() | [Docu]() | [100%] | [234XP]
+      * [Certification]() 
+      * [Documentation]() 
+            
+  * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
+      * [100%] | [248XP]
+      * [Certification]() 
+      * [Documentation]() 
+            
+  * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML)
+      * [100%] | [234XP]
+      * [Certification]() 
+      * [Documentation]() 
+            
   * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL) | [Cert]() | [Docu]() | [100%] | [179XP]
   * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp) | [Cert]() | [Docu]() | [35%] | [119XP]
   * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS) | [Cert]() | [Docu]() | [33%] | [111XP]
