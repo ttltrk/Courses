@@ -10,12 +10,12 @@ Courses
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/git.txt)
   
   * [Learn HTML](https://www.codecademy.com/learn/learn-html)
       * [100%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/WEB/blob/master/HTML/DOC/CODECADEMY_HTML.txt)
   
   * [Learn SQL](https://www.codecademy.com/learn/learn-sql)
       * [100%]
@@ -25,12 +25,12 @@ Courses
   * [Learn Python](https://www.codecademy.com/learn/learn-python)
       * [57%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/CODECADEMY_PY.MD)
   
   * [Learn Java](https://www.codecademy.com/learn/learn-java)
       * [25%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/JAVA/DOC/CODECADEMY_JV.txt)
   
   * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
       * [25%]
@@ -40,7 +40,7 @@ Courses
   * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
       * [21%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/WEB/blob/master/JS/DOC/CODECADEMY_JS.txt)
   
   * [Learn CSS](https://www.codecademy.com/learn/learn-css)
       * [11%]
