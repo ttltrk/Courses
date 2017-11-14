@@ -30,15 +30,15 @@ Courses
   * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery) - [10%] - [28XP]
 
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
-  * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)  | [Docu](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD) | [Certification]() - [57%]
-  * [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) | [Docu](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD) | [Certification]() | [12%]
+  * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)  | [Docu](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD) | [Certification]() | [57%]
+  * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) | [Docu](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD) | [Certification]() | [12%]
   * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) - [15%]
   * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) - [59%]
   * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview) - [74%]
   * [Teach Your Kids to Code: Learn Python Programming at Any Age](https://www.udemy.com/teach-your-kids-to-code/learn/v4/) - [29%]
   * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview) - [3%]
   * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) - [4%]
-  * [Django Core | A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview) - [3%]
+  * [Django Core, A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview) - [3%]
   * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview) - [22%]
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview) - [0%]
   * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview) - [4%]
