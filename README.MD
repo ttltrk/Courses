@@ -18,38 +18,65 @@ Courses
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
 
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
-      * [100%] | [426XP]
+      * [100%] - [426XP]
       * [Certification]() 
       * [Documentation]() 
       
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) 
-      * [100%] | [291XP]
+      * [100%] - [291XP]
       * [Certification]() 
       * [Documentation]() 
             
   * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
-      * [100%] | [256XP]
+      * [100%] - [256XP]
       * [Certification]() 
       * [Documentation]() 
             
   * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
-      * [100%] | [248XP]
+      * [100%] - [248XP]
       * [Certification]() 
       * [Documentation]() 
             
   * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML)
-      * [100%] | [234XP]
+      * [100%] - [234XP]
       * [Certification]() 
       * [Documentation]() 
             
-  * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL) | [Cert]() | [Docu]() | [100%] | [179XP]
-  * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp) | [Cert]() | [Docu]() | [35%] | [119XP]
-  * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS) | [Cert]() | [Docu]() | [33%] | [111XP]
-  * [Ruby Tutorial](https://www.sololearn.com/Profile/3771981/Ruby) | [Cert]() | [Docu]() | [30%] | [89XP]
-  * [C++ Tutorial](https://www.sololearn.com/Profile/3771981/CPlusPlus) | [Cert]() | [Docu]() | [15%] | [60XP]
-  * [Swift Fundamentals](https://www.sololearn.com/Profile/3771981/Swift) | [Cert]() | [Docu]() | [10%] | [54XP]
-  * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery) | [Cert]() | [Docu]() | [10%] | [28XP]
-
+  * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL)
+      * [100%] - [179XP]
+      * [Certification]() 
+      * [Documentation]()  
+      
+  * [C# Tutorial](https://www.sololearn.com/Profile/3771981/CSharp) 
+      * [35%] | [119XP]
+      * [Certification]() 
+      * [Documentation]() 
+      
+  * [CSS Fundamentals](https://www.sololearn.com/Profile/3771981/CSS)
+      * [33%] - [111XP]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Ruby Tutorial](https://www.sololearn.com/Profile/3771981/Ruby)
+      * [30%] - [89XP]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [C++ Tutorial](https://www.sololearn.com/Profile/3771981/CPlusPlus)
+      * [15%] - [60XP]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Swift Fundamentals](https://www.sololearn.com/Profile/3771981/Swift)
+      * [10%] - [54XP]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [jQuery Tutorial](https://www.sololearn.com/Profile/3771981/jQuery)
+      * [10%] - [28XP]
+      * [Certification]() 
+      * [Documentation]()
+      
 #### [Udemy](https://www.udemy.com/home/my-courses/learning/)
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)  | [Certification]() | [Docu](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD) | [57%]
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) | [Certification]() | [Docu](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD) | [12%]
