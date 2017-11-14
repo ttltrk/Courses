@@ -131,36 +131,83 @@ Courses
       * [Certification]() 
       * [Documentation]()
   
-  * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview) | [Cert]() | [Docu]() | [59%]
+  * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview)
+      * [59%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview) | [Cert]() | [Docu]() | [74%]
+  * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview)
+      * [74%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Teach Your Kids to Code: Learn Python Programming at Any Age](https://www.udemy.com/teach-your-kids-to-code/learn/v4/) | [Cert]() | [Docu]() | [29%]
+  * [Teach Your Kids to Code: Learn Python Programming at Any Age](https://www.udemy.com/teach-your-kids-to-code/learn/v4/)
+      * [29%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview) | [Cert]() | [Docu]() | [3%]
+  * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview)
+      * [3%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview) | [Cert]() | [Docu]() | [4%]
+  * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-
+  bootcamp/learn/v4/overview)
+      * [4%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Django Core, A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview) | [Cert]() | [Docu]() | [3%]
+  * [Django Core, A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview)
+      * [3%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview)
+      * [22%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview) | [Cert]() | [Docu]() | [22%]
+  * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview) | [Cert]() | [Docu]() | [0%]
+  * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview)
+      * [4%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview) | [Cert]() | [Docu]() | [4%]
+  * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview)
+      * [5%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) | [Cert]() | [Docu]() | [5%]
+  * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview)
+      * [6%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview) | [Cert]() | [Docu]() | [6%]
+  * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview) | [Cert]() | [Docu]() | [0%]
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/overview)
+      * [2%]
+      * [Certification]() 
+      * [Documentation]()
   
-  * [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/overview) | [Cert]() | [Docu]() | [2%]
-  
-  * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content) | [Cert]() | [Docu]() | [0%]
+  * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
   
 ### [Saylor.org]()
-  * [WEB Development](https://learn.saylor.org/course/view.php?id=75) | [Cert]() | [Docu]() |
+
+  * [WEB Development](https://learn.saylor.org/course/view.php?id=75)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
 
 ### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
 
