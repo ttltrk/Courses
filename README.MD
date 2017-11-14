@@ -2,12 +2,11 @@
 Courses
 ======
 
-#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk)
-       * [Step 239]
+#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
        * [Certification]() 
        * [Documentation]()
 
-#### [Codecademy](https://www.codecademy.com/ttltrk) | [410 Pts] | [52 Badges] | [4 Skills Compl.]
+#### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] | [52 Badges] | [4 Skills Compl.]
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
       * [Certification]() 
@@ -53,7 +52,7 @@ Courses
       * [Certification]() 
       * [Documentation]()
 
-#### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
+#### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] | [2105XP]
 
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
       * [100%] - [426XP]
