@@ -2,11 +2,11 @@
 Courses
 ======
 
-#### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
+### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
   * [Certification]() 
   * [Documentation]()
 
-#### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] | [52 Badges] | [4 Skills Compl.]
+### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] | [52 Badges] | [4 Skills Compl.]
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
       * [Certification]() 
@@ -52,7 +52,7 @@ Courses
       * [Certification]() 
       * [Documentation]()
 
-#### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] | [2105XP]
+### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] | [2105XP]
 
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
       * [100%] - [426XP]
@@ -114,7 +114,7 @@ Courses
       * [Certification]() 
       * [Documentation]()
       
-#### [Udemy](https://www.udemy.com/home/my-courses/learning/)
+### [Udemy](https://www.udemy.com/home/my-courses/learning/)
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)  | [Certification]() | [Docu](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD) | [57%]
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/) | [Certification]() | [Docu](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD) | [12%]
   * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/) | [Cert]() | [Docu]() | [15%]
@@ -133,9 +133,9 @@ Courses
   * [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/overview) | [Cert]() | [Docu]() | [2%]
   * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content) | [Cert]() | [Docu]() | [0%]
   
-#### [Saylor.org]()
+### [Saylor.org]()
   * [WEB Development](https://learn.saylor.org/course/view.php?id=75) | [Cert]() | [Docu]() |
 
-#### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
+### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
 
-#### [Datacamp](https://www.datacamp.com/profile/ttltrk)
+### [Datacamp](https://www.datacamp.com/profile/ttltrk)
