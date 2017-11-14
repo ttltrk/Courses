@@ -16,15 +16,21 @@ Courses
   * [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) | [Cert]() | [Docu]() | [5%]
 
 #### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
-  * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) | 
-      + [Cert]() 
-      + [Docu]() 
-      + [100%] | [426XP]
+  * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
+      * [Certification]() 
+      * [Documentation]() 
+      * [100%] | [426XP]
+      
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) 
-      + [Cert]() 
-      + [Docu]() 
-      + [100%] | [291XP]
-  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP) | [Cert]() | [Docu]() | [100%] | [256XP]
+      * [Certification]() 
+      * [Documentation]() 
+      * [100%] | [291XP]
+      
+  * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
+      * [Certification]() 
+      * [Documentation]() 
+      * [100%] | [256XP]
+      
   * [JavaScript Tutorial](https://www.sololearn.com/Profile/3771981/PHP) | [Cert]() | [Docu]() | [100%] | [248XP]
   * [HTML Fundamentals](https://www.sololearn.com/Profile/3771981/HTML) | [Cert]() | [Docu]() | [100%] | [234XP]
   * [SQL Fundamentals](https://www.sololearn.com/Profile/3771981/SQL) | [Cert]() | [Docu]() | [100%] | [179XP]
