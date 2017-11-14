@@ -2,17 +2,7 @@
 Courses
 ======
 
-<nav>
-| <a href='#001'>FreeCodeCamp</a> |
-<a href='#002'>CodeCademy</a> |
-<a href='#003'>SoloLearn</a> |
-<a href='#004'>Udemy</a> |
-<a href='#005'>Saylor</a> |
-<a href='#006'>Dataquest</a> |
-<a href='#007'>DataCamp</a> |
-</nav>
-
-### [<h3 id='001'>FreeCodeCamp</h3>](https://www.freecodecamp.org/ttltrk) - [Step 239]
+### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
   * [Certification]() 
   * [Documentation]()
 
