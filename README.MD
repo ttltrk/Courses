@@ -117,7 +117,7 @@ Courses
 ### [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
-      * [60%]
+      * [63%]
       * [Certification]()
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
   
