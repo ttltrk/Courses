@@ -147,7 +147,7 @@ Courses
       * [Documentation]()
   
   * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview)
-      * [3%]
+      * [4%]
       * [Certification]() 
       * [Documentation]()
   
