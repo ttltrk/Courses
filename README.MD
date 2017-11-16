@@ -122,7 +122,7 @@ Courses
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
   
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/)  
-      * [14%]
+      * [16%]
       * [Certification]()  
       * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD)
   
