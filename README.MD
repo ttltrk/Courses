@@ -116,6 +116,13 @@ Courses
       
 ### [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
+ANIMATION
+
+  * [Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/overview)
+      * [26%]
+      * [Certification]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/PRF/CREATIVECODING.MD)      
+
 DB
 
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
@@ -181,6 +188,11 @@ PYTHON
       * [0%]
       * [Certification]() 
       * [Documentation]()
+      
+  * [Complete Python Programming Course:Beginner to Advanced](https://www.udemy.com/complete-python-programming-course-beginner-to-advanced/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
   
   * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview)
       * [4%]
@@ -218,7 +230,7 @@ WEB
       * [2%]
       * [Certification]() 
       * [Documentation]()
-  
+   
 ### [Saylor.org]()
 
   * [WEB Development](https://learn.saylor.org/course/view.php?id=75)
