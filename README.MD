@@ -139,6 +139,13 @@ DB
       * [4%]
       * [Certification]() 
       * [Documentation]()
+      
+GIT
+
+  * [GitHub Ultimate: Master Git and GitHub - Beginner to Expert](https://www.udemy.com/github-ultimate/learn/v4/overview)
+      * [6%]
+      * [Certification]() 
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/GIT_UD.MD)
 
 OS
 
@@ -147,15 +154,10 @@ OS
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
       
-  * []()
-      * [%]
-      * [Certification]() 
-      * [Documentation]()
-
   * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview)
       * [21%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/RPI/UDEMY_RPI_WS.MD)
       
   * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/)
       * [15%]
@@ -189,7 +191,7 @@ PYTHON
       * [Certification]() 
       * [Documentation]()
       
-  * [Complete Python Programming Course:Beginner to Advanced](https://www.udemy.com/complete-python-programming-course-beginner-to-advanced/learn/v4/overview)
+  * [Complete Python Programming Course: Beginner to Advanced](https://www.udemy.com/complete-python-programming-course-beginner-to-advanced/learn/v4/overview)
       * [0%]
       * [Certification]() 
       * [Documentation]()
@@ -211,6 +213,11 @@ PYTHON
 
 WEB
 
+  * [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
+
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview)
       * [0%]
       * [Certification]() 
@@ -230,6 +237,11 @@ WEB
       * [2%]
       * [Certification]() 
       * [Documentation]()
+      
+   * [Jekyll: make fast, secure static sites and blogs with Jekyll](https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll/learn/v4/overview)
+      * [17%]
+      * [Certification]() 
+      * [Documentation](https://github.com/ttltrk/WEB/blob/master/JEKYLL/JEK_UDM.MD)
    
 ### [Saylor.org]()
 
