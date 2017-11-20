@@ -116,28 +116,44 @@ Courses
       
 ### [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
+DB
+
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
       * [66%]
       * [Certification]()
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
-  
+      
+  * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview)
+      * [74%]
+      * [Certification]() 
+      * [Documentation]()
+
+  * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview)
+      * [4%]
+      * [Certification]() 
+      * [Documentation]()
+
+PLATFORM
+
+  * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview)
+      * [21%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/)
+      * [15%]
+      * [Certification]() 
+      * [Documentation]()
+      
+PYTHON
+
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/)  
       * [16%]
       * [Certification]()  
       * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD)
   
-  * [Shell Scripting: Discover How to Automate Command Line Tasks](https://www.udemy.com/shell-scripting-linux/learn/v4/)
-      * [15%]
-      * [Certification]() 
-      * [Documentation]()
-  
   * [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/complete-python-bootcamp/learn/v4/overview)
       * [59%]
-      * [Certification]() 
-      * [Documentation]()
-  
-  * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview)
-      * [74%]
       * [Certification]() 
       * [Documentation]()
   
@@ -145,9 +161,14 @@ Courses
       * [29%]
       * [Certification]() 
       * [Documentation]()
-  
-  * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview)
-      * [4%]
+      
+  * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content)
+      * [0%]
       * [Certification]() 
       * [Documentation]()
   
@@ -165,14 +186,11 @@ Courses
       * [22%]
       * [Certification]() 
       * [Documentation]()
-  
+
+WEB
+
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview)
       * [0%]
-      * [Certification]() 
-      * [Documentation]()
-  
-  * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview)
-      * [21%]
       * [Certification]() 
       * [Documentation]()
   
@@ -186,18 +204,8 @@ Courses
       * [Certification]() 
       * [Documentation]()
   
-  * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview)
-      * [0%]
-      * [Certification]() 
-      * [Documentation]()
-  
   * [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/overview)
       * [2%]
-      * [Certification]() 
-      * [Documentation]()
-  
-  * [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/content)
-      * [0%]
       * [Certification]() 
       * [Documentation]()
   
