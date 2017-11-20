@@ -133,7 +133,17 @@ DB
       * [Certification]() 
       * [Documentation]()
 
-PLATFORM
+OS
+
+  * [Fundamentals of Unix and Linux System Administration](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/content)
+      * [3%]
+      * [Certification]() 
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
+      
+  * []()
+      * [%]
+      * [Certification]() 
+      * [Documentation]()
 
   * [Raspberry Pi Workshop 2017 Become a Coder / Maker / Inventor](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/v4/overview)
       * [21%]
