@@ -170,13 +170,13 @@ OS
       * [15%]
       * [8 of 55 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
       
   * [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/bash-scripting/learn/v4/overview)
       * [0%]
       * [0 of 41 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/BASH_SC_UDM.MD)
       
 PYTHON
 
