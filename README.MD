@@ -6,13 +6,6 @@ Courses
   * [Certification]() 
   * [Documentation](https://github.com/ttltrk/WEB/blob/master/FS/DOC/README.MD)
   
-<div class="progress">
-  <div class="progress-bar" role="progressbar" aria-valuenow="70"
-  aria-valuemin="0" aria-valuemax="100" style="width:70%">
-    <span class="sr-only">70% Complete</span>
-  </div>
-</div>
-
 ### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] - [52 Badges] - [4 Skills Compl.]
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
@@ -171,6 +164,11 @@ OS
       * [Certification]() 
       * [Documentation]()
       
+  * [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/bash-scripting/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
+      
 PYTHON
 
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/)  
@@ -221,11 +219,26 @@ PYTHON
 WEB
 
   * [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/learn/v4/overview)
+      * [19%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Advanced CSS and Sass: Take Your CSS to the Next Level!](https://www.udemy.com/advanced-css-and-sass/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview)
       * [0%]
       * [Certification]() 
       * [Documentation]()
 
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview)
+      * [0%]
+      * [Certification]() 
+      * [Documentation]()
+      
+  * [Learn Bootstrap By Building Projects - Includes Bootstrap 4](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview)
       * [0%]
       * [Certification]() 
       * [Documentation]()
