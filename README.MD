@@ -190,13 +190,13 @@ PYTHON
       * [59%]
       * [70 of 120 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_FROM_ZE_TO_HE.MD)
   
   * [Teach Your Kids to Code: Learn Python Programming at Any Age](https://www.udemy.com/teach-your-kids-to-code/learn/v4/)
       * [29%]
       * [31 of 110 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/udemy_teach_your_kids_to_code.MD)
       
   * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/learn/v4/overview)
       * [0%]
@@ -220,19 +220,19 @@ PYTHON
       * [4%]
       * [6 of 198 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/DJANGO/DOC/UD_DJ_FS.MD)
   
   * [Django Core, A Reference Guide to Core Django Concepts](https://www.udemy.com/django-core/learn/v4/overview)
       * [3%]
       * [4 of 159 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/DJANGO/DOC/UD_DJ_CO.MD)
       
   * [A Beginners Guide to Django!](https://www.udemy.com/introdjango/learn/v4/overview)
       * [22%]
       * [3 of 14 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/DJANGO/DOC/UD_DJ_BEG.MD)
 
 WEB
 
@@ -240,7 +240,7 @@ WEB
       * [19%]
       * [4 of 22 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/WEB/blob/master/HTML/DOC/WEBDEV_UDM.MD)
       
   * [Advanced CSS and Sass: Take Your CSS to the Next Level!](https://www.udemy.com/advanced-css-and-sass/learn/v4/overview)
       * [0%]
@@ -264,7 +264,7 @@ WEB
       * [4%]
       * [3 of 92 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/WEB/blob/master/BS/DOC/UDEMY_BS_PR.MD)
   
   * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview)
       * [6%]
