@@ -255,8 +255,8 @@ WEB
       * [Documentation]()
 
   * [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/overview)
-      * [0%]
-      * [0 of 9 items complete]
+      * [34%]
+      * [3 of 9 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/WEB/blob/master/BS/DOC/UD_BS_4_EX.MD)
       
