@@ -266,11 +266,6 @@ WEB
       * [Certification]() 
       * [Documentation]()
   
-  * [Learn Bootstrap Development By Building 10 Projects](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview)
-      * [5%]
-      * [Certification]() 
-      * [Documentation]()
-  
   * [Create a REAL Social Network like Facebook in PHP + MySQL](https://www.udemy.com/make-a-social-media-website/learn/v4/overview)
       * [6%]
       * [10 of 174 items complete]
