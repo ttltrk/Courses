@@ -136,13 +136,13 @@ DB
       * [74%]
       * [65 of 88 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_BOOT.MD)
 
   * [Oracle PL/SQL Fundamentals vol. I & II](https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/learn/v4/overview)
       * [4%]
       * [3 of 97 items complete]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/DB/blob/master/PLSQL/DOC/UDEMY_PLSQL.MD)
       
 GIT
 
@@ -173,7 +173,7 @@ OS
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
       
   * [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/bash-scripting/learn/v4/overview)
-      * [0%]
+      * [8%]
       * [0 of 41 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/BASH_SC_UDM.MD)
