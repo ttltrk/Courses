@@ -181,8 +181,8 @@ OS
 PYTHON
 
   * [30 Days of Python, Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/)  
-      * [16%]
-      * [7 of 45 items complete]
+      * [18%]
+      * [8 of 45 items complete]
       * [Certification]()  
       * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/UD_30_PY.MD)
   
