@@ -155,8 +155,8 @@ GIT
 OS
 
   * [Fundamentals of Unix and Linux System Administration](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/content)
-      * [6%]
-      * [6 of 112 items complete]
+      * [7%]
+      * [7 of 112 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
       
