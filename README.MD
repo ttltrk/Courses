@@ -119,8 +119,8 @@ Courses
 ANIMATION
 
   * [Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/overview)
-      * [42%]
-      * [13 of 31 items complete]
+      * [52%]
+      * [14 of 31 items complete]
       * [Certification]()
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/PRF/CREATIVECODING.MD)      
 
