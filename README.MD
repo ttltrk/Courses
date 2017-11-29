@@ -156,7 +156,7 @@ OS
 
   * [Fundamentals of Unix and Linux System Administration](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/content)
       * [9%]
-      * [9 of 112 items complete]
+      * [10 of 112 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
       
