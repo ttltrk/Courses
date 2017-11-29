@@ -237,8 +237,8 @@ PYTHON
 WEB
 
   * [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/learn/v4/overview)
-      * [19%]
-      * [4 of 22 items complete]
+      * [23%]
+      * [5 of 22 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/WEB/blob/master/HTML/DOC/WEBDEV_UDM.MD)
       
