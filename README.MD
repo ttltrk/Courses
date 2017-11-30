@@ -127,8 +127,8 @@ ANIMATION
 DB
 
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
-      * [85%]
-      * [27 of 32 items complete]
+      * [88%]
+      * [28 of 32 items complete]
       * [Certification]()
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
       
