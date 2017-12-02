@@ -129,7 +129,7 @@ DB
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
       * [100%]
       * [32 of 32 items complete]
-      * [Certification]()
+      * ![Certification](/path/to/file)
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
       
   * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview)
