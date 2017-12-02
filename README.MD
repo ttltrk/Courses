@@ -127,9 +127,7 @@ ANIMATION
 DB
 
   * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)
-      * [100%]
-      * [32 of 32 items complete]
-      * ![Certification](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
+      ![Certification](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
       * [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
       
   * [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview)
