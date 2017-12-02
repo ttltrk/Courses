@@ -126,7 +126,7 @@ ANIMATION
 
 DB
 
-  * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview)       [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
+  * [The Complete Oracle SQL Certification Course](https://www.udemy.com/the-complete-oracle-sql-certification-course/learn/v4/overview) -  [Documentation](https://github.com/ttltrk/DB/blob/master/SQL/DOC/UDEMY_SQL_CER.MD)
       ![Certification](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
       
       
