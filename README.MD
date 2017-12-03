@@ -61,8 +61,8 @@ Courses
       
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) 
       * [100%] - [291XP]
-      * [Certification]() 
       * [Documentation]() 
+      ![Certification](https://github.com/ttltrk/Courses/blob/master/Certification/java_solo.pdf)
             
   * [PHP Tutorial](https://www.sololearn.com/Profile/3771981/PHP)
       * [100%] - [256XP]
