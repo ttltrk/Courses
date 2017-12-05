@@ -234,11 +234,8 @@ PYTHON
 
 WEB
 
-  * [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/learn/v4/overview)
-      * [23%]
-      * [5 of 22 items complete]
-      * [Certification]() 
-      * [Documentation](https://github.com/ttltrk/WEB/blob/master/HTML/DOC/WEBDEV_UDM.MD)
+  * [[Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/learn/v4/overview)] - [[Documentation](https://github.com/ttltrk/WEB/blob/master/HTML/DOC/WEBDEV_UDM.MD)]
+  ![Certification](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
       
   * [Advanced CSS and Sass: Take Your CSS to the Next Level!](https://www.udemy.com/advanced-css-and-sass/learn/v4/overview)
       * [0%]
