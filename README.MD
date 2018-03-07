@@ -16,13 +16,13 @@ Courses
 
 ---
 
-### <h4 id="01">[FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]</h4>
+### <h3 id="01">[FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]</h3>
   * [Certification]() 
   * [Documentation](https://github.com/ttltrk/WEB/blob/master/FS/DOC/README.MD)
 
 ---
 
-### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] - [52 Badges] - [4 Skills Compl.]
+### <h3 id="02">[Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] - [52 Badges] - [4 Skills Compl.]</h3>
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
       * [Certification]() 
@@ -70,7 +70,7 @@ Courses
 
 ---
 
-### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
+### <h3 id="03">[SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]</h3>
 
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
       * [100%] - [426XP]
@@ -134,7 +134,7 @@ Courses
 
 ---
  
-### [Udemy](https://www.udemy.com/home/my-courses/learning/)
+### <h3 id="04">[Udemy](https://www.udemy.com/home/my-courses/learning/)</h3>
 
 ANIMATION
 
@@ -301,7 +301,7 @@ WEB
 
 ---
 
-### [Saylor.org]()
+### <h3 id="05">[Saylor.org]()</h3>
 
   * [WEB Development](https://learn.saylor.org/course/view.php?id=75)
       * [0%]
@@ -310,10 +310,10 @@ WEB
 
 ---
 
-### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
+### <h3 id="06">[Dataquest](https://www.dataquest.io/profile/ttltrk.acc)</h3>
 
 ---
 
-### [Datacamp](https://www.datacamp.com/profile/ttltrk)
+### <h3 id="07">[Datacamp](https://www.datacamp.com/profile/ttltrk)</h3>
 
 ---
