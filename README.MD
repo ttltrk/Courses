@@ -6,7 +6,7 @@ Courses
 
 ---
 
-* <a href="01">freeCodeCamp</a>
+* <a href="#01">freeCodeCamp</a>
 * <a href="02">Codecademy</a>
 * <a href="03">SoloLearn</a>
 * <a href="04">Udemy</a>
@@ -16,7 +16,7 @@ Courses
 
 ---
 
-### <h4 id="#01">[FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]</h4>
+### <h4 id="01">[FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]</h4>
   * [Certification]() 
   * [Documentation](https://github.com/ttltrk/WEB/blob/master/FS/DOC/README.MD)
 
