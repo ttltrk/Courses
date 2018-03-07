@@ -6,6 +6,8 @@ Courses
 
 ---
 
+### <h4 id="NAV">COURSE LIST</h4>
+
 * <a href="#01">freeCodeCamp</a>
 * <a href="#02">Codecademy</a>
 * <a href="#03">SoloLearn</a>
@@ -19,6 +21,8 @@ Courses
 ### <h3 id="01">[FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]</h3>
   * [Certification]() 
   * [Documentation](https://github.com/ttltrk/WEB/blob/master/FS/DOC/README.MD)
+  
+<a href='#NAV'>NAV</a>
 
 ---
 
@@ -67,6 +71,8 @@ Courses
       * [5%]
       * [Certification]() 
       * [Documentation]()
+      
+<a href='#NAV'>NAV</a>
 
 ---
 
@@ -131,6 +137,8 @@ Courses
       * [10%] - [28XP]
       * [Certification]() 
       * [Documentation]()
+
+<a href='#NAV'>NAV</a>
 
 ---
  
@@ -299,6 +307,8 @@ WEB
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/WEB/blob/master/JEKYLL/JEK_UDM.MD)
 
+<a href='#NAV'>NAV</a>
+
 ---
 
 ### <h3 id="05">[Saylor.org]()</h3>
@@ -307,13 +317,19 @@ WEB
       * [0%]
       * [Certification]() 
       * [Documentation]()
+      
+<a href='#NAV'>NAV</a>
 
 ---
 
 ### <h3 id="06">[Dataquest](https://www.dataquest.io/profile/ttltrk.acc)</h3>
 
+<a href='#NAV'>NAV</a>
+
 ---
 
 ### <h3 id="07">[Datacamp](https://www.datacamp.com/profile/ttltrk)</h3>
+
+<a href='#NAV'>NAV</a>
 
 ---
