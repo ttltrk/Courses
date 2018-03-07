@@ -6,7 +6,7 @@ Courses
 
 ---
 
-### <h4 id="NAV">CL</h4>
+### <h4 id="NAV"></h4>
 
 * <a href="#01">freeCodeCamp</a>
 * <a href="#02">Codecademy</a>
