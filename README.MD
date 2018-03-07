@@ -2,10 +2,16 @@
 Courses
 ======
 
+[<<<](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
+
+---
+
 ### [FreeCodeCamp](https://www.freecodecamp.org/ttltrk) - [Step 239]
   * [Certification]() 
   * [Documentation](https://github.com/ttltrk/WEB/blob/master/FS/DOC/README.MD)
-  
+
+---
+
 ### [Codecademy](https://www.codecademy.com/ttltrk) - [410 Pts] - [52 Badges] - [4 Skills Compl.]
   * [Learn Git](https://www.codecademy.com/learn/learn-git)
       * [100%]
@@ -51,6 +57,8 @@ Courses
       * [5%]
       * [Certification]() 
       * [Documentation]()
+
+---
 
 ### [SoloLearn](https://www.sololearn.com/Profile/3771981) - [Level 7] - [2105XP]
 
@@ -113,7 +121,9 @@ Courses
       * [10%] - [28XP]
       * [Certification]() 
       * [Documentation]()
-      
+
+---
+ 
 ### [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
 ANIMATION
@@ -278,7 +288,9 @@ WEB
       * [5 of 30 items complete]
       * [Certification]() 
       * [Documentation](https://github.com/ttltrk/WEB/blob/master/JEKYLL/JEK_UDM.MD)
-   
+
+---
+
 ### [Saylor.org]()
 
   * [WEB Development](https://learn.saylor.org/course/view.php?id=75)
@@ -286,6 +298,12 @@ WEB
       * [Certification]() 
       * [Documentation]()
 
+---
+
 ### [Dataquest](https://www.dataquest.io/profile/ttltrk.acc)
 
+---
+
 ### [Datacamp](https://www.datacamp.com/profile/ttltrk)
+
+---
