@@ -7,12 +7,12 @@ Courses
 ---
 
 * <a href="#01">freeCodeCamp</a>
-* <a href="02">Codecademy</a>
-* <a href="03">SoloLearn</a>
-* <a href="04">Udemy</a>
-* <a href="05">Saylor</a>
-* <a href="06">Datacamp</a>
-* <a href="07">Dataquest</a>
+* <a href="#02">Codecademy</a>
+* <a href="#03">SoloLearn</a>
+* <a href="#04">Udemy</a>
+* <a href="#05">Saylor</a>
+* <a href="#06">Datacamp</a>
+* <a href="#07">Dataquest</a>
 
 ---
 
