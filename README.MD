@@ -40,7 +40,7 @@ Courses
   * [Learn SQL](https://www.codecademy.com/learn/learn-sql)
       * [100%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/DB/blob/master/DCM/DCMS/01/01.MD)
   
   * [Learn Python](https://www.codecademy.com/learn/learn-python)
       * [57%]
