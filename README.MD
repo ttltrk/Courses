@@ -56,9 +56,9 @@
       * [Documentation](https://github.com/ttltrk/PRG/blob/master/JAVA/DOC/CODECADEMY_JV.txt)
   
   * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-      * [25%]
+      * [0%]
       * [Certification]() 
-      * [Documentation]()
+      * [Documentation](https://github.com/ttltrk/ELSE/blob/master/SHELL/CMOS/01/01/01.MD)
   
   * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
       * [21%]
