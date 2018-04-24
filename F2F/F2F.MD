@@ -9,6 +9,6 @@
 
 ---
 
-* [Java Junior]()
+* [Java Junior](https://github.com/ttltrk/PRG/blob/master/JAVA/DOC/BJM/TOMI/JJ.MD)
 
 ---
