@@ -85,7 +85,7 @@
   * [Python 3 Tutorial](https://www.sololearn.com/Profile/3771981/Python) 
       * [100%] - [426XP]
       * [Certification]() 
-      * [Documentation]() 
+      * [Documentation](https://github.com/ttltrk/PRG/blob/master/PY/DOC/SOLOLEARN_PY.MD) 
       
   * [Java Tutorial](https://www.sololearn.com/Profile/3771981/Java) 
       * [100%] - [291XP]
